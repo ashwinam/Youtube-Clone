@@ -1,7 +1,8 @@
 .video-preview-container {
     display: grid;
     grid-template-columns: 290px 290px 290px 290px;
-    column-gap: 20px;
+    column-gap: 15px;
+    row-gap: 45px;
 }
 
 .video-preview {
