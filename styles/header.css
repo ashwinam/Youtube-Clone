@@ -3,3 +3,17 @@
     justify-content: space-between;
     height: 40px;
 }
+
+.left-section {
+    display: flex;
+    align-items: center;
+}
+
+.hamburger-icon {
+    width: 24px;
+    margin-right: 20px;
+}
+
+.youtube-logo-icon {
+    width: 90px;
+}

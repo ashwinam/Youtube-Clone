@@ -1,7 +1,7 @@
 .video-preview-container {
     display: grid;
-    grid-template-columns: 290px 290px 290px 290px;
-    column-gap: 15px;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    column-gap: 20px;
     row-gap: 45px;
 }
 
@@ -44,12 +44,9 @@
     border-radius: 20px;
 }
 
-.video-info {
-    width: 100%;
-}
 
 .video-title {
-    font-size: 15px;
+    font-size: 0.9rem;
     font-weight: 500;
     margin-bottom: 10px;
 }
